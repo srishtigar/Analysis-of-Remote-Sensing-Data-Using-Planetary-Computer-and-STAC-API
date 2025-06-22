@@ -1,4 +1,4 @@
-# Remote Sensing Data Analysis with Microsoft Planetary Computer
+# 🛰️ Remote Sensing Data Analysis with Microsoft Planetary Computer
 
 This project demonstrates how to search, access, and analyze satellite imagery from the Microsoft Planetary Computer using the STAC API and Python tools. It includes NDVI calculation, surface temperature mapping, and color infrared visualization for the Delhi NCR region.
 
@@ -75,7 +75,7 @@ plt.show()
 
 ---
 
-## Example Outputs
+##  📊 Example Outputs
 
 - **Natural color composite** for Delhi NCR
 - **NDVI map** for vegetation analysis
